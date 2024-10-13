@@ -11,7 +11,7 @@ Bruteforce-SolarPutty.exe <wordlist_file_path> <sessions_file_path>
 ```
 After running it, if the password is found, it will be outputted and the session file will be decrypted:
 
-![image](https://github.com/user-attachments/assets/352ed909-c1b8-4f66-9299-f30750f5aaed)
+![image](https://github.com/user-attachments/assets/445935fd-b421-4bd0-a235-4270022035d8)
 
 ## Python script
 
