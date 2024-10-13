@@ -2,7 +2,7 @@
 
 Inspired by [SolarPuttyDecrypt](https://github.com/VoidSec/SolarPuttyDecrypt), I thought I would make something that allows you to pass a wordlist as an argument, along with the session file from a Solar-Putty installation and bruteforce the password and decrypt it.
 
-A precompiled binary can be downloaded from the [Releases](https://github.com/LazyTitan33/Bruteforce-SolarPutty/releases/download/v1.0/Bruteforce-SolarPutty.exe)
+A precompiled binary can be downloaded from the [Releases](https://github.com/LazyTitan33/Bruteforce-SolarPutty/releases/download/v1.0/Bruteforce-SolarPutty.exe).
 
 ## Usage
 
