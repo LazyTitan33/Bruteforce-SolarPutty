@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WwdpoX8Q1Ajioz2cYuucgqnR+lrR6VUDv5B0Hg3NeLm/yLvBpWcgyo10E8gs5DilHPG/vsVS3FwKNQeHgBEeyA==",
+  "success": true,
+  "projectFilePath": "C:\\Windows\\Temp\\Bruteforce-SolarPutty\\Bruteforce-SolarPutty.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pauls\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\pauls\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\pauls\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\pauls\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
