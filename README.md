@@ -15,7 +15,7 @@ After running it, if the password is found, it will be outputted and the session
 
 ## Python script
 
-The [python](https://raw.githubusercontent.com/LazyTitan33/Bruteforce-SolarPutty/refs/heads/main/Bruteforce_SolarPutty.py) script works the same way and can be used in a Linux environment.
+The [python](https://github.com/LazyTitan33/Bruteforce-SolarPutty/blob/main/Bruteforce_SolarPutty.py ) script works the same way and can be used in a Linux environment.
 
 ```bash
 ./Bruteforce_SolarPutty.py <wordlist_file_path> <sessions_file_path>
